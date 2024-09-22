@@ -29,5 +29,6 @@ In your solution you must provide the following in your Github link account:
  - UML Class Diagram
  - Uploaded java codes for the solution.
    
+![Adapter Pattern UML Class Diagram ](https://github.com/user-attachments/assets/99b04893-5bea-4602-a483-a2222002f5d9)
 
-	![Adapter Pattern UML Class Diagram ](https://github.com/user-attachments/assets/e0d71493-2085-45df-8c82-8f6730745489)
+	
